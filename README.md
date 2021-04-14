@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 自己的一些代码记录，热门项目fork,持续输出ing
 - 🤔 Website：https://cuijiahua.com/(AI算法工程师的个人网站)
 - 🌈 BiliBili：https://space.bilibili.com/331507846(AI算法学习)
-- 👯 Wechat：微信公众号搜索：[「最新数据搬运工」]
+- 👯 Wechat：微信公众号搜索：「最新信息搬运工」
 - 📫 网易邮箱：xiechengyu5@163.com
 - ⚡  兴趣爱好：篮球、象棋、lol、网易狼人杀
 <!--(https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)-->
